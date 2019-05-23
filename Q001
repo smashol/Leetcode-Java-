@@ -1,0 +1,7 @@
+1. 两数之和
+解法一：
+数组存放Node节点（value,index）
+将数组排序
+设立双指针索引
+解法二：
+使用Hashmap（查找target-num[i]）
